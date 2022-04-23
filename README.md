@@ -25,3 +25,8 @@ In more vicious matches, some have been known to punch their opponent in the voc
 
 ## Repeated Sightings
 When a buggy is sighted and a punch is issued, a ten minute timer begins.  If the buggy is visible after those 10 minutes have elapsed, you may once again punch your opponent.  Note that owners of buggies are advised to punch their passengers once every ten 
+
+## The Score
+Each punch counts as one point.  If you punch an opponent on sighting a car that was not, in fact, a punch bug then your score is decremented by three points.  You should also feel a deep and abiding sense of shame on delivering an incorrect punch.
+
+The score resets at midnight local time every day.  The person with the highest score should feel comfort that they are a clever, quick and resourceful person.  The people who lost should be left with a lingering self doubt as to whether they will ever really cut it in life, knowing that they're bad a finding bugs.  This is, after all, a serious business and a proxy for the struggle for domination that is life itself.

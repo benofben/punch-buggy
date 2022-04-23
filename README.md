@@ -24,7 +24,7 @@ If you don't say "no punch backs" within two seconds on punching your opponent, 
 In more vicious matches, some have been known to punch their opponent in the vocal cords, thereby disabling their "no punch back" ability and ensuring victor in the game.  Though, this strategy is generally frowned upon as unsporting behaviour.
 
 ## Repeated Sightings
-When a buggy is sighted and a punch is issued, a ten minute timer begins.  If the buggy is visible after those 10 minutes have elapsed, you may once again punch your opponent.  Note that owners of buggies are advised to punch their passengers once every ten 
+When a buggy is sighted and a punch is issued, a ten minute timer begins.  If the buggy is visible after those 10 minutes have elapsed, you may once again punch your opponent.  Note that owners of buggies are advised to punch their passengers once every ten minutes.
 
 ## The Score
 Each punch counts as one point.  If you punch an opponent on sighting a car that was not, in fact, a punch bug then your score is decremented by three points.  You should also feel a deep and abiding sense of shame on delivering an incorrect punch.

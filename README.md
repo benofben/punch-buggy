@@ -5,7 +5,7 @@ These are the offical rules of the noble game of punch buggy.  They were agreed 
 A punch bug or buggy is a Volkswagen Beetle.  This includes:
 * [Original Beetle](https://en.wikipedia.org/wiki/Volkswagen_Beetle)
 * [New Beetle](https://en.wikipedia.org/wiki/Volkswagen_New_Beetle)
-* [A5](https://en.wikipedia.org/wiki/Volkswagen_New_Beetle)
+* [A5](https://en.wikipedia.org/wiki/Volkswagen_Beetle_(A5))
 
 ## A Sighting
 The game never ends.  It is played while driving in a car, sitting in a coffee shop or walking down the street.  If you let your guard down you lose.  When you sight a punch buggy, you maybe punch an opponent who is within five feet of you.  

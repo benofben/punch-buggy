@@ -6,9 +6,10 @@ A punch bug or buggy is a Volkswagen Beetle.  This includes:
 * [Original Beetle](https://en.wikipedia.org/wiki/Volkswagen_Beetle)
 * [New Beetle](https://en.wikipedia.org/wiki/Volkswagen_New_Beetle)
 * [A5](https://en.wikipedia.org/wiki/Volkswagen_Beetle_(A5))
+* Beetle based custom vehicles such as a [Dune Buggy](https://en.wikipedia.org/wiki/Dune_buggy#Beetle-based_buggies)
 
 ## A Sighting
-The game never ends.  It is played while driving in a car, sitting in a coffee shop or walking down the street.  If you let your guard down you lose.  When you sight a punch buggy, you maybe punch an opponent who is within five feet of you.  
+The game never ends.  It is played while driving in a car, sitting in a coffee shop or walking down the street.  If you let your guard down you lose.  When you sight a punch buggy, you may punch an opponent who is within five feet of you.  
 
 * The buggy must be physically present.  Pictures do not count.
 * The buggy must be running and have a driver in the driver seat.
